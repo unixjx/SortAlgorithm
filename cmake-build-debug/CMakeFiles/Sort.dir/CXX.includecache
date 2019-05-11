@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xjx/studySpace/Ctest/Sort/include/MergeSort.h
+quicksort.h
+/home/xjx/studySpace/Ctest/Sort/include/quicksort.h
+
+/home/xjx/studySpace/Ctest/Sort/include/quicksort.h
+iostream
+-
+
+/home/xjx/studySpace/Ctest/Sort/include/shellsort.h
+quicksort.h
+/home/xjx/studySpace/Ctest/Sort/include/quicksort.h
+
+/home/xjx/studySpace/Ctest/Sort/include/simplesort.h
+quicksort.h
+/home/xjx/studySpace/Ctest/Sort/include/quicksort.h
+string.h
+-
+
+/home/xjx/studySpace/Ctest/Sort/src/main.cpp
+../include/quicksort.h
+/home/xjx/studySpace/Ctest/Sort/include/quicksort.h
+../include/MergeSort.h
+/home/xjx/studySpace/Ctest/Sort/include/MergeSort.h
+../include/simplesort.h
+/home/xjx/studySpace/Ctest/Sort/include/simplesort.h
+../include/shellsort.h
+/home/xjx/studySpace/Ctest/Sort/include/shellsort.h
+

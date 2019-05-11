@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Sort.dir/src/main.cpp.o CMakeFiles/Sort.dir/src/quicksort.cpp.o CMakeFiles/Sort.dir/src/MergeSort.cpp.o CMakeFiles/Sort.dir/src/simplesort.cpp.o  -o Sort 
